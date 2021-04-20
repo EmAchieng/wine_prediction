@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # **Task: Copy last sessionâ€™s Machine Learning notebook**
+# # **Task: Copy last sessionÃ¢â‚¬â„¢s Machine Learning notebook**
 
 # # **Task: Simplify your notebook to only keep the train-test split, the auto-sklearn model , evaluation and model explanability.**
 # 
