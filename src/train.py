@@ -75,7 +75,7 @@ drive.mount('/content/drive', force_remount=True)
 # In[ ]:
 
 
-data_path = "/content/drive/MyDrive/Data Science/Introduction2DataScience/tutorials/"
+data_path = "/content/drive/MyDrive/DataScience/Introduction2DataScience/tutorials/"
 
 
 # In[ ]:
